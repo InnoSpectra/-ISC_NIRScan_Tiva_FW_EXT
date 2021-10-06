@@ -1,5 +1,7 @@
 # ISC_NIRScan_Tiva_FW_EXT
 
+Please refer to the document - "APN - First Time to Update TIVA Firmware.pdf" if you are not familiar with the Tiva FW update.
+
 # License - InnoSpectra Corp.
 
 Copyright (c) 2017, InnoSpectra Corporation, All rights reserved.
